@@ -25,7 +25,7 @@ int main()
 	}
 	else if (num == 4)
 	{
-			n3 = n1 / n2;	
+		n3 = n1 / n2;	
 	}
 	else
 		printf("잘못된 숫자입니다. \n");
